@@ -1,6 +1,6 @@
 # Casos de teste — Projeto de Teste B01A02
 
-**Aluno:** Lucas Betim Nobre de Oliveira
+**Alunos:** Lucas Betim Nobre de Oliveira e Rafael Schultz
 
 ## Casos de teste
 
